@@ -20,7 +20,7 @@
 
 Explore the world of **Artificial Intelligence** (AI) with our 12-week, 24-lesson curriculum!  It includes practical lessons, quizzes, and labs. The curriculum is beginner-friendly and covers tools like TensorFlow and PyTorch, as well as ethics in AI
 
-## What you will learn
+## What You Will Learn
 
 **[Mindmap of the Course](http://soshnikov.com/courses/ai-for-beginners/mindmap.html)**
 
